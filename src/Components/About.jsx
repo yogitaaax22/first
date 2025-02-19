@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a btech student studying at Birla Institute of Tecchnology, Mesra, Jaipur extension. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a currently pursuing my Btech degree in computer science and engineering at Birla Institute of Tecchnology, Mesra. I'm a curious and ambitious young tech enthusiast with a passion for innovation and learning.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -33,10 +33,10 @@ const description =
 const skillsList = [
   "Web design",
   "User experience",
-  "Inclusive design",
-  "Focus group testing",
+  "Animation",
+  "App & Website Development",
   "Mobile user interfaces",
-  "Graphic design",
+  "Web Security",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my btech experience I continually look for new and better ways to make tech accessible by all.";
+  "I am driven by a passion for problem-solving, constantly seeking novel solutions that fuel creativity and progress. By leveraging my btech experience I continually look for new and better ways to make technology approachable and usable for all.";
 
 const About = () => {
   return (

@@ -25,11 +25,11 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Yogita Maheshwari",
-  title: "Web Designer & Content Creator",
+  title: "Web Designer & Software Developer",
   email: "yogitamaheshwari22@gmail.com",
   gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "",
+  instagram: "yogiittaaa_",
+  linkedIn: "Yogita Maheshwari",
   medium: "",
   twitter: "microsoft",
   youTube: "Code",
