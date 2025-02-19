@@ -27111,11 +27111,11 @@ var _stylesCss = require("./styles.css");
  * If you don't have one of the social sites listed, leave it as an empty string.
  */ const siteProps = {
     name: "Yogita Maheshwari",
-    title: "Web Designer & Content Creator",
+    title: "Web Designer & Software Developer",
     email: "yogitamaheshwari22@gmail.com",
     gitHub: "microsoft",
-    instagram: "microsoft",
-    linkedIn: "",
+    instagram: "yogiittaaa_",
+    linkedIn: "Yogita Maheshwari",
     medium: "",
     twitter: "microsoft",
     youTube: "Code"
@@ -27205,23 +27205,23 @@ var _thisImageJpgDefault = parcelHelpers.interopDefault(_thisImageJpg);
 const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
- */ const description = "I'm a btech student studying at Birla Institute of Tecchnology, Mesra, Jaipur extension. I enjoy creating unique and simplistic user interfaces in creative ways.";
+ */ const description = "I'm a currently pursuing my Btech degree in computer science and engineering at Birla Institute of Tecchnology, Mesra. I'm a curious and ambitious young tech enthusiast with a passion for innovation and learning.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */ const skillsList = [
     "Web design",
     "User experience",
-    "Inclusive design",
-    "Focus group testing",
+    "Animation",
+    "App & Website Development",
     "Mobile user interfaces",
-    "Graphic design", 
+    "Web Security", 
 ];
 /**
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
- */ const detailOrQuote = "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my btech experience I continually look for new and better ways to make tech accessible by all.";
+ */ const detailOrQuote = "I am driven by a passion for problem-solving, constantly seeking novel solutions that fuel creativity and progress. By leveraging my btech experience I continually look for new and better ways to make technology approachable and usable for all.";
 const About = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "padding",
@@ -28772,8 +28772,8 @@ var _reactDefault = parcelHelpers.interopDefault(_react);
  *
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
- */ var _newImagePng = require("../images/new-image.png");
-var _newImagePngDefault = parcelHelpers.interopDefault(_newImagePng);
+ */ var _newImageJpg = require("../images/new-image.jpg");
+var _newImageJpgDefault = parcelHelpers.interopDefault(_newImageJpg);
 const imageAltText = "desktop with books and laptop";
 /**
  * Project list
@@ -28782,9 +28782,8 @@ const imageAltText = "desktop with books and laptop";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */ const projectList = [
     {
-        title: "10 Things To Know About Azure Static Web Apps \uD83C\uDF89",
-        description: "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-        url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
+        title: "areas of interest",
+        description: "-Photography Aficionado,tech savvy indivisual, reading fanatic, table tennis ace"
     },
     {
         title: "Web Development for Beginners",
@@ -28830,7 +28829,7 @@ const Portfolio = ()=>{
                             alignSelf: "center"
                         },
                         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                            src: (0, _newImagePngDefault.default),
+                            src: (0, _newImageJpgDefault.default),
                             style: {
                                 height: "90%",
                                 width: "100%",
@@ -28913,8 +28912,8 @@ $RefreshReg$(_c, "Portfolio");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../images/new-image.png":"9fawS","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"9fawS":[function(require,module,exports) {
-module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "new-image.fc78aea5.png" + "?" + Date.now();
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../images/new-image.jpg":"6RCbP"}],"6RCbP":[function(require,module,exports) {
+module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "new-image.34dcb7e6.jpg" + "?" + Date.now();
 
 },{"./helpers/bundle-url":"lgJ39"}],"lW6qc":[function() {},{}]},["1xC6H","ShInH","8lqZg"], "8lqZg", "parcelRequire6158")
 
